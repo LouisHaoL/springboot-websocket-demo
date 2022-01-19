@@ -209,3 +209,6 @@ public class MyController {
 
 
 
+## 4、nginx前后端分离
+
+配置文件见nginx.conf
